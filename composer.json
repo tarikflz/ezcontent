@@ -118,11 +118,6 @@
          "drupal/core":"-p2"
       },
       "patches":{
-         "drupal/core":{
-            "Add reusable option to inline block creation":"https://www.drupal.org/files/issues/2024-01-23/add_reusable_option_to_inline_block_creation-2999491-141.patch",
-            "Add block classes for bundle and view mode":"https://www.drupal.org/files/issues/2023-01-14/2830725-36.patch",
-            "[subprofile support] 3266057 - Allow profiles to define a base/parent profile and load them in the correct order":"https://www.drupal.org/files/issues/2024-07-12/3266057-130.patch"
-         },
          "drupal/entity_browser":{
             "Media file lost while duplicating paragraph":"https://www.drupal.org/files/issues/2020-03-25/3104901.patch",
             "2897855 - Entity browser modal dialog opens by pressing enter in any text field":"https://www.drupal.org/files/issues/2020-10-07/prevent-entity-browser-from-open-on-enter-key-pressed-2897855-17-reroll-with-improvement.patch"
